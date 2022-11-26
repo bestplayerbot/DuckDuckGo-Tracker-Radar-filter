@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: DuckDuckGo Tracker Radar
-! Description: This filter is based on DuckDuckGo Tracker Radar.
+! Description: This host file is based on DuckDuckGo Tracker Radar.
 ! Note: Made by Blokada and edited by bot
 ! Updated: 26 November 2022
 
@@ -613,8 +613,8 @@
 ||a.rfihub.com^
 ||a.rltd.net^
 ||a.rpassets.com^
-||a.sfdcstatic.com^
 ||a.sfdcstatic.com.edgekey.net^
+||a.sfdcstatic.com^
 ||a.shukriya90.com^
 ||a.smedata.sk^
 ||a.spolecznosci.net^
@@ -629,8 +629,8 @@
 ||a.tile.openstreetmap.fr^
 ||a.tile.opentopomap.org^
 ||a.tile.osm.org^
-||a.travel-assets.com^
 ||a.travel-assets.com.edgekey.net^
+||a.travel-assets.com^
 ||a.tribalfusion.com^
 ||a.twiago.com^
 ||a.utraff.com^
@@ -810,8 +810,8 @@
 ||adbg.hit.gemius.pl^
 ||adcdn.goo.ne.jp.edgekey.net^
 ||addisonelectronique.webpush.freshchat.com^
-||ade.clmbtech.com^
 ||ade.clmbtech.com-v2.edgekey.net^
+||ade.clmbtech.com^
 ||ade.googlesyndication.com^
 ||adengine.snigelweb.com^
 ||adex.dotmetrics.net^
@@ -822,8 +822,8 @@
 ||adi.admicro.vn^
 ||adidas.njih.net^
 ||adit.spain.advgo.net^
-||adl-foundation.adidas.com^
 ||adl-foundation.adidas.com.edgekey.net^
+||adl-foundation.adidas.com^
 ||adl.bankofthewest.com.edgekey.net^
 ||adl.pierce-ecom.com^
 ||adl.tfaforms.net^
@@ -948,8 +948,8 @@
 ||adservices.brandcdn.com^
 ||adserving.aan.speedshiftmedia.com^
 ||adserving.optoutadvertising.com^
-||adsimg.kompas.com^
 ||adsimg.kompas.com.0d0007d9.cdnhwc8.cn^
+||adsimg.kompas.com^
 ||adspaces.ero-advertising.com^
 ||adsr.4wnetwork.com^
 ||adsx.motogp.com.edgekey.net^
@@ -1041,8 +1041,8 @@
 ||akc.blueconic.net^
 ||akcdn.detik.net.id^
 ||akl-navvy.media.net^
-||akm-img-a-in.tosshub.com^
 ||akm-img-a-in.tosshub.com-v1.edgekey.net^
+||akm-img-a-in.tosshub.com^
 ||akm-static.ccmbg.com.edgekey.net^
 ||akns-images.eonline.com.edgekey.net^
 ||aksjlkqxtp.cloudimg.io^
@@ -1288,8 +1288,8 @@
 ||api.italki.com.cdn.cloudflare.net^
 ||api.krefel.be.edgekey.net^
 ||api.mobius.highereducation.com^
-||api.oneweb.mercedes-benz.com^
 ||api.oneweb.mercedes-benz.com.edgekey.net^
+||api.oneweb.mercedes-benz.com^
 ||api.ozlotteries.com.cdn.cloudflare.net^
 ||api.prod-arcade.werally.in^
 ||api.s6.sbgservices.com^
@@ -1569,8 +1569,8 @@
 ||apps.joinsherpa.io^
 ||apps.mageworx.com^
 ||apps.minibc.com^
-||apps.mypurecloud.com^
 ||apps.mypurecloud.com.au^
+||apps.mypurecloud.com^
 ||apps.mypurecloud.ie^
 ||apps.nypr.org^
 ||apps.omegatheme.com^
@@ -1837,8 +1837,8 @@
 ||assets.liverpool.com.mx.edgekey.net^
 ||assets.livestory.io^
 ||assets.lls.fr^
-||assets.loblaws.ca^
 ||assets.loblaws.ca-v1.edgekey.net^
+||assets.loblaws.ca^
 ||assets.locations.andersenwindows.com.prod.rioseo.com^
 ||assets.locations.arbys.com.prod.rioseo.com^
 ||assets.locations.sonicdrivein.com.prod.rioseo.com^
@@ -1875,8 +1875,8 @@
 ||assets.nintendo.eu^
 ||assets.oakley.com^
 ||assets.obi.de^
-||assets.oneweb.mercedes-benz.com^
 ||assets.oneweb.mercedes-benz.com.edgekey.net^
+||assets.oneweb.mercedes-benz.com^
 ||assets.oreillyautorls.rioseo.com^
 ||assets.over-blog-kiwi.com^
 ||assets.ownpage.fr^
@@ -1937,8 +1937,8 @@
 ||assets.shop.loblaws.ca^
 ||assets.shoppersdrugmart.ca.edgekey.net^
 ||assets.simpleviewcms.com^
-||assets.simpleviewinc.com^
 ||assets.simpleviewinc.com.cdn.cloudflare.net^
+||assets.simpleviewinc.com^
 ||assets.sitescdn.net^
 ||assets.sk-static.com^
 ||assets.smart.com.edgekey.net^
@@ -2035,8 +2035,8 @@
 ||assetscdn.npostart.nl.cdn.cloudflare.net^
 ||assetscdn.pushengage.com^
 ||assetscdn.stackla.com^
-||assetshare.basspro.com^
 ||assetshare.basspro.com.edgekey.net^
+||assetshare.basspro.com^
 ||assetstore.sbgservices.com^
 ||assetstorev1-prd-cdn.unity3d.com.edgekey.net^
 ||assetsyenisafakcom.mncdn.com^
@@ -2106,8 +2106,8 @@
 ||auth.faithlife.com^
 ||auth.lalr.co^
 ||auth.lifemapsc.com^
-||auth.mtvnservices.com^
 ||auth.mtvnservices.com.edgekey.net^
+||auth.mtvnservices.com^
 ||auth.prod.greensky.com^
 ||auth.split.io^
 ||auth.starz.com^
@@ -2180,8 +2180,8 @@
 ||b.tempsreel.infoclimat.net^
 ||b.tile.openstreetmap.fr^
 ||b.tile.osm.org^
-||b.travel-assets.com^
 ||b.travel-assets.com.edgekey.net^
+||b.travel-assets.com^
 ||b.triptease.io^
 ||b.va.us.criteo.com^
 ||b.videoamp.com^
@@ -2510,8 +2510,8 @@
 ||bt.p24.hu^
 ||btcecho-relay.iocnt.net^
 ||btds.zog.link^
-||btg.mtvnservices.com^
 ||btg.mtvnservices.com.edgekey.net^
+||btg.mtvnservices.com^
 ||btlr.sharethrough.com^
 ||btm.bosch.com^
 ||btn.createsend1.com^
@@ -2522,8 +2522,8 @@
 ||bucknell-prod.lwcal.com^
 ||buddy.excelii.com^
 ||buildbase.ladesk.com^
-||builds.mlbstatic.com^
 ||builds.mlbstatic.com.cdn.cloudflare.net^
+||builds.mlbstatic.com^
 ||bulbamerica.attn.tv^
 ||bulk.ada.support^
 ||bulkreefsupply.resultspage.com^
@@ -2613,8 +2613,8 @@
 ||c.nativendo.de^
 ||c.odp4pro.com^
 ||c.odpforpro.com^
-||c.oracleinfinity.io^
 ||c.oracleinfinity.io.edgekey.net^
+||c.oracleinfinity.io^
 ||c.plerdy.com^
 ||c.pmsrv.co^
 ||c.pubguru.net^
@@ -2624,8 +2624,8 @@
 ||c.securepaths.com^
 ||c.sexy.free-datings.com^
 ||c.seznam.cz^
-||c.shld.net^
 ||c.shld.net.edgekey.net^
+||c.shld.net^
 ||c.slickstream.com^
 ||c.spolecznosci.net^
 ||c.ststat.net^
@@ -2635,8 +2635,8 @@
 ||c.tadst.com^
 ||c.tile.openstreetmap.fr^
 ||c.tile.osm.org^
-||c.travel-assets.com^
 ||c.travel-assets.com.edgekey.net^
+||c.travel-assets.com^
 ||c.tvpixel.com^
 ||c.webengage.com^
 ||c.webtrends-optimize.com^
@@ -2843,8 +2843,8 @@
 ||cdn-03.synsam.com^
 ||cdn-04.synsam.com^
 ||cdn-05.synsam.com^
-||cdn-1.nikon-cdn.com^
 ||cdn-1.nikon-cdn.com.cdn.cloudflare.net^
+||cdn-1.nikon-cdn.com^
 ||cdn-1.tstatic.net^
 ||cdn-1047.privacy-mgmt.com^
 ||cdn-1061.privacy-mgmt.com^
@@ -3076,8 +3076,8 @@
 ||cdn-live.conductor.com^
 ||cdn-loyalty.yotpo.com^
 ||cdn-magiclinks.trackonomics.net^
-||cdn-media.prettylittlething.com^
 ||cdn-media.prettylittlething.com.edgekey.net^
+||cdn-media.prettylittlething.com^
 ||cdn-media.web-view.net^
 ||cdn-micron.suth.digital^
 ||cdn-mms-com.kibocloud.com^
@@ -3174,8 +3174,8 @@
 ||cdn.bigbootytube.net.sds.rncdn7.com^
 ||cdn.blackmilftube.com.sds.rncdn7.com^
 ||cdn.blacktube.tv.sds.rncdn7.com^
-||cdn.blog.st-hatena.com^
 ||cdn.blog.st-hatena.com.edgekey.net^
+||cdn.blog.st-hatena.com^
 ||cdn.bnpl.riverty.io^
 ||cdn.bootytube.net.sds.rncdn7.com^
 ||cdn.brigham-young.psdops.com^
@@ -3271,8 +3271,8 @@
 ||cdn.pinkpussy.tv.sds.rncdn7.com^
 ||cdn.plaisio.gr.edgekey.net^
 ||cdn.pocket.shonenmagazine.com.edgekey.net^
-||cdn.pool.st-hatena.com^
 ||cdn.pool.st-hatena.com.edgekey.net^
+||cdn.pool.st-hatena.com^
 ||cdn.predpovede.topky.sk^
 ||cdn.problogger.lowfruitsolutions.com^
 ||cdn.prod.docfr.doc-media.fr^
@@ -3330,8 +3330,8 @@
 ||cdn.who.int.cdn.cloudflare.net^
 ||cdn.wki.it.cdn.cloudflare.net^
 ||cdn.wtfoot.com.cdn.cloudflare.net^
-||cdn.www.st-hatena.com^
 ||cdn.www.st-hatena.com.edgekey.net^
+||cdn.www.st-hatena.com^
 ||cdn.xlbygg.getadigital.cloud^
 ||cdn0.agoda.net^
 ||cdn0.erstegroup.com^
@@ -3341,8 +3341,8 @@
 ||cdn01.jotfor.ms^
 ||cdn01.nativeroll.tv^
 ||cdn01.stellarlabs.ai^
-||cdn01l.vaillant-group.com^
 ||cdn01l.vaillant-group.com.edgekey.net^
+||cdn01l.vaillant-group.com^
 ||cdn02.jotfor.ms^
 ||cdn02.plentymarkets.com^
 ||cdn02.taggstar.com^
@@ -3426,8 +3426,8 @@
 ||cdn2.asset-center.com^
 ||cdn2.bigcommerce.com^
 ||cdn2.bildirt.com^
-||cdn2.bustle.com^
 ||cdn2.bustle.com.cdn.cloudflare.net^
+||cdn2.bustle.com^
 ||cdn2.caroda.io^
 ||cdn2.civitatis.com^
 ||cdn2.comparethemarket.com.cdn.cloudflare.net^
@@ -3593,14 +3593,14 @@
 ||cdnde.newsserve.net^
 ||cdne-pics.youjizz.com^
 ||cdne-static.cdn1122.com^
-||cdnetworks.cedexis-test.com^
 ||cdnetworks.cedexis-test.com.wsoversea.com^
+||cdnetworks.cedexis-test.com^
 ||cdngeneral.rentcafe.com.cdn.cloudflare.net^
 ||cdngeneral.storagecafe.com.cdn.cloudflare.net^
 ||cdngeneralcf.rentcafe.com.cdn.cloudflare.net^
 ||cdnglobal.immonet.de.edgekey.net^
-||cdnglobal.immowelt.org^
 ||cdnglobal.immowelt.org.edgekey.net^
+||cdnglobal.immowelt.org^
 ||cdni.asianshemale.pics.sds.rncdn7.com^
 ||cdni.baldwetpussy.com.sds.rncdn7.com^
 ||cdni.bestpornpictures.com.sds.rncdn7.com^
@@ -3644,8 +3644,8 @@
 ||cdnp.kink.com^
 ||cdnp.notifyvisitors.com^
 ||cdnp.richaudience.com^
-||cdnres.willyweather.com^
 ||cdnres.willyweather.com.au^
+||cdnres.willyweather.com^
 ||cdns-i.wankzvr.com.sds.vikinghostcdn.com^
 ||cdns.brsrvr.com^
 ||cdns.klimg.com^
@@ -3703,8 +3703,8 @@
 ||cfb.rabbitloader.xyz^
 ||cfcdn.apowersoft.info^
 ||cfe889175.lwcdn.com^
-||cfl.dropboxstatic.com^
 ||cfl.dropboxstatic.com.cdn.cloudflare.net^
+||cfl.dropboxstatic.com^
 ||cflvdg.avoz.es^
 ||cfm.yidio.com^
 ||cfm2.lowescdn.xyz^
@@ -4057,9 +4057,9 @@
 ||collector.mpianalytics.com^
 ||collector.sophi.io^
 ||collector.xhamster.com^
-||collector_sr.contentexchange.me^
 ||collectorprod.glic.com^
 ||collectorsvc.apac.vesta.io^
+||collector_sr.contentexchange.me^
 ||collecty.prod-eks.pepper.com^
 ||cologger.shopping.naver.com.nheos.com^
 ||colosseumklinikken.innocode.digital^
@@ -4200,8 +4200,8 @@
 ||content.arduino.cc.cdn.cloudflare.net^
 ||content.boats.com^
 ||content.cdntwrk.com^
-||content.chip.de^
 ||content.chip.de.27643.edgekey.net^
+||content.chip.de^
 ||content.civicplus.com^
 ||content.cmn.com^
 ||content.cxpublic.com^
@@ -4269,8 +4269,8 @@
 ||cookie.vrt.be^
 ||cookie.wieni.be^
 ||cookieconsent.komm.one^
-||cookielaw.emea.fcagroup.com^
 ||cookielaw.emea.fcagroup.com.edgekey.net^
+||cookielaw.emea.fcagroup.com^
 ||cookiemon.atcom.gr^
 ||cookiemonster.jarvis.ai^
 ||cookies-api-pro.elixregtech.com^
@@ -4496,8 +4496,8 @@
 ||css.static-ziprealty.com^
 ||css.tudocdn.net^
 ||css.wdfiles.com^
-||csscdn.redblue.de^
 ||csscdn.redblue.de.edgekey.net^
+||csscdn.redblue.de^
 ||cssjs.nejmgroup-uccprod.org^
 ||cst.brightspotcdn.com^
 ||cstatic.weborama.fr^
@@ -4620,12 +4620,12 @@
 ||d.la4-c2-ph2.salesforceliveagent.com^
 ||d.la4-c3-ph2.salesforceliveagent.com^
 ||d.la4-c4-ia2.salesforceliveagent.com^
-||d.line-scdn.net^
 ||d.line-scdn.net.edgekey.net^
+||d.line-scdn.net^
 ||d.nativendo.de^
 ||d.nocimg.pl^
-||d.oracleinfinity.io^
 ||d.oracleinfinity.io.edgekey.net^
+||d.oracleinfinity.io^
 ||d.otaserve.net^
 ||d.plerdy.com^
 ||d.pssy.xyz^
@@ -4660,8 +4660,8 @@
 ||dainese-cdn.thron.com^
 ||daktion-relay.iocnt.net^
 ||dalb.valuecommerce.com^
-||dam-assets.vailresorts.com^
 ||dam-assets.vailresorts.com.edgekey.net^
+||dam-assets.vailresorts.com^
 ||dam.ecommerce.melia.services^
 ||dam.malt.com^
 ||dam.nmhmedia.sk^
@@ -4875,8 +4875,8 @@
 ||digital.mondadori.it^
 ||digitalasset.intuit.com.edgekey.net^
 ||digitalcare.godaddy.com.edgekey.net^
-||digitalcontent.api.tesco.com^
 ||digitalcontent.api.tesco.com.edgekey.net^
+||digitalcontent.api.tesco.com^
 ||digitalfeedback.confirmit.com.au^
 ||digitalp-relay.iocnt.net^
 ||digitvvscallc7.envision.services.altibox.net^
@@ -5167,8 +5167,8 @@
 ||editor-assets.abtasty.com^
 ||editor-upload-cdn.optimonk.com^
 ||editorial.csnstatic.com^
-||editorial.fidcdn.net^
 ||editorial.fidcdn.net.cdn.cloudflare.net^
+||editorial.fidcdn.net^
 ||editorial.pxcrush.net^
 ||edmundopticsinc.mktoweb.com^
 ||edumore03.kovoks.nl^
@@ -5337,8 +5337,8 @@
 ||es-config.sensic.net^
 ||es.pinkbike.org^
 ||es.russiatoday.com^
-||es.t8cdn.com^
 ||es.t8cdn.com.sds.rncdn7.com^
+||es.t8cdn.com^
 ||eset.extole.io^
 ||esharesinc.mktoweb.com^
 ||esp-eu.aptrinsic.com^
@@ -5786,8 +5786,8 @@
 ||fotf.tfaforms.net^
 ||fotos.videochaterotico.com^
 ||foundr.webpush.au.freshchat.com^
-||foundry.churchofjesuschrist.org^
 ||foundry.churchofjesuschrist.org.edgekey.net^
+||foundry.churchofjesuschrist.org^
 ||foureyes.adpearance.com^
 ||fourth.widget.insent.ai^
 ||foxbusinessp.factsetdigitalsolutions.com^
@@ -5828,8 +5828,8 @@
 ||freesecure.timeanddate.com^
 ||freipres-relay.iocnt.net^
 ||freshteam.webpush.freshchat.com^
-||from.tegna-media.com^
 ||from.tegna-media.com.edgekey.net^
+||from.tegna-media.com^
 ||front-api-gateway.account.media.iid.jp^
 ||front.boldem.cz^
 ||front.optimonk.com^
@@ -5989,8 +5989,8 @@
 ||geo.ziffdavisinternational.com.edgekey.net^
 ||geo01.dns.presslabs.net^
 ||geo02.dns.presslabs.net^
-||geoip.esri.com^
 ||geoip.esri.com.edgekey.net^
+||geoip.esri.com^
 ||georgiaboot.attn.tv^
 ||gepi-alo.global-e.com^
 ||gepi.global-e.com^
@@ -6521,8 +6521,8 @@
 ||hsh.maatoo.io^
 ||hsn.extole.io^
 ||ht-cdn.trafficjunky.net.sds.rncdn7.com^
-||ht-cdn2.adtng.com^
 ||ht-cdn2.adtng.com.sds.rncdn7.com^
+||ht-cdn2.adtng.com^
 ||ht-cdn2.contentabc.com^
 ||ht-cdn2.trafficjunky.net.sds.rncdn7.com^
 ||hta.attn.tv^
@@ -6581,8 +6581,8 @@
 ||i.ctnsnet.com^
 ||i.daily.jp^
 ||i.dailymail.co.uk-v1.edgekey.net^
-||i.doodcdn.co^
 ||i.doodcdn.com^
+||i.doodcdn.co^
 ||i.dslr.net^
 ||i.dynspt.com^
 ||i.e-planning.net^
@@ -6751,8 +6751,8 @@
 ||icici-securities.allincall.in^
 ||icici.nanorep.co^
 ||icicibanksmartsearch.senseforth.com^
-||icm.aexp-static.com^
 ||icm.aexp-static.com.edgekey.net^
+||icm.aexp-static.com^
 ||iconify.mediasoep.nl^
 ||icons.pn.vg^
 ||ics.apolloduck.com^
@@ -6970,8 +6970,8 @@
 ||ithaca.blueconic.net^
 ||itm.ivitrack.com^
 ||itv-vs-hub.api.kustomerapp.com^
-||iva.synchronycredit.com^
 ||iva.synchronycredit.com.edgekey.net^
+||iva.synchronycredit.com^
 ||ivm.antenaplay.ro^
 ||ivx-image.ivideosmart.com^
 ||ivxplayer.ivideosmart.com^
@@ -7134,8 +7134,8 @@
 ||jsc.adskeeper.co.uk^
 ||jsc.adskeeper.com^
 ||jsc.mgid.com^
-||jscdn.redblue.de^
 ||jscdn.redblue.de.edgekey.net^
+||jscdn.redblue.de^
 ||jscdn.yieldbird.com^
 ||jsd-widget.atlassian.com^
 ||jslib.emotive.io^
@@ -7183,8 +7183,8 @@
 ||kanews-relay.iocnt.net^
 ||kao-h.assetsadobe3.com^
 ||kapi.hilton.io^
-||kariera.zoznam.sk^
 ||kariera.zoznam.sk.cdn.cloudflare.net^
+||kariera.zoznam.sk^
 ||karma.mdpcdn.com^
 ||kas.user.com^
 ||kasambaresources.kassrv.com^
@@ -7619,8 +7619,8 @@
 ||m.servedby-buysellads.com^
 ||m.t.tailtarget.com^
 ||m.tcsrv.net^
-||m1.quebecormedia.com^
 ||m1.quebecormedia.com3.edgekey.net^
+||m1.quebecormedia.com^
 ||m104216-ucdn.mp.lura.live^
 ||m1finance.ada.support^
 ||m2d.m2.ai^
@@ -7642,8 +7642,8 @@
 ||mafo1.myaudience.de^
 ||mafra-ads.aimatch.com^
 ||mag.raysweather.com^
-||magellan-api.p7s1.io^
 ||magellan-api.p7s1.io.edgekey.net^
+||magellan-api.p7s1.io^
 ||magicspoon.attn.tv^
 ||magicwidget.socialboards.com^
 ||magicwidgetapi.socialboards.com^
@@ -7807,8 +7807,8 @@
 ||media-uk1.digital.nuance.com^
 ||media-us1.digital.nuance.com^
 ||media-us2.digital.nuance.com^
-||media-video.chip.de^
 ||media-video.chip.de.edgekey.net^
+||media-video.chip.de^
 ||media-virtual-agent-enriched.smartly.ai^
 ||media-webui-cdn.ozlotteries.com.cdn.cloudflare.net^
 ||media-www.canadiantire.ca.edgekey.net^
@@ -7889,8 +7889,8 @@
 ||media.lovehoneyassets.com^
 ||media.marktjagd.com^
 ||media.medion.com.edgekey.net^
-||media.miele.com^
 ||media.miele.com-dsd.edgekey.net^
+||media.miele.com^
 ||media.moemax.com^
 ||media.msg.dotomi.com^
 ||media.mwstatic.com^
@@ -8366,8 +8366,8 @@
 ||newmediagroup-d.openx.net^
 ||newres.wechat.com.cdn.dnsv1.com.cn^
 ||news-api.fullscreen.nz^
-||news-cdn.softpedia.com^
 ||news-cdn.softpedia.com.cdn.cloudflare.net^
+||news-cdn.softpedia.com^
 ||news.bellmedia.ca.edgekey.net^
 ||news.gnezdo.ru^
 ||news.thenewsbox.net^
@@ -8592,8 +8592,8 @@
 ||ootf1v.a.searchspring.io^
 ||op1.0ps.us^
 ||opanalytics.containers.piwik.pro^
-||opec.itdg.com.br^
 ||opec.itdg.com.br.cdn.cloudflare.net^
+||opec.itdg.com.br^
 ||opec.webedia.com.br^
 ||open-signin.okasconcepts.com^
 ||open.http.mp.streamamg.com^
@@ -8725,8 +8725,8 @@
 ||p325k7wa.twic.pics^
 ||p34246.cedexis-test.com^
 ||p34247.cedexis-test.com^
-||p36.cedexis-test.com^
 ||p36.cedexis-test.com.wsoversea.com^
+||p36.cedexis-test.com^
 ||p42939.citm-test.com^
 ||p44558.cedexis-test.com^
 ||p46125.cedexis-test.com^
@@ -9016,8 +9016,8 @@
 ||player.ausha.co^
 ||player.avplayer.com^
 ||player.blubrry.com^
-||player.canalplus.com^
 ||player.canalplus.com.edgekey.net^
+||player.canalplus.com^
 ||player.captivate.fm^
 ||player.cnevids.com^
 ||player.ex.co^
@@ -9390,10 +9390,10 @@
 ||public.fbot.me^
 ||public.flourish.studio^
 ||public.govdelivery.com^
-||public.imyfone.com^
 ||public.imyfone.com.w.cdngslb.com^
-||public.leafly.com^
+||public.imyfone.com^
 ||public.leafly.com.cdn.cloudflare.net^
+||public.leafly.com^
 ||public.libertymutual-cdn.com^
 ||public.onlyfans.com^
 ||public.powrcdn.com^
@@ -9544,7 +9544,6 @@
 ||racaracol.player-top.prisasd.com^
 ||racbrandsprivacy.truyo.com^
 ||rackroomshoes.attn.tv^
-||rad_power_bikes.cname.getrockerbox.com^
 ||radar.cedexis.com^
 ||radar.weather.gov^
 ||radio.erfm.fr^
@@ -9552,6 +9551,7 @@
 ||radioadminassets.rogersdigitalmedia.com^
 ||radiorpr-relay.iocnt.net^
 ||radwellusa.whoson.com^
+||rad_power_bikes.cname.getrockerbox.com^
 ||rainbow.attn.tv^
 ||raise.attn.tv^
 ||raise.r0-api.com^
@@ -9604,8 +9604,8 @@
 ||rebootit.ladesk.com^
 ||recart.wpsoul.com^
 ||receiver-metis.infeng.site^
-||recengine.intoday.in^
 ||recengine.intoday.in.edgekey.net^
+||recengine.intoday.in^
 ||recently.appifiny.io^
 ||recherche-api.quebecormedia.comv2.edgekey.net^
 ||recipe1.ezmember.co.kr^
@@ -9738,8 +9738,8 @@
 ||resources.usersnap.com^
 ||resources.wrbm.com^
 ||resources.zype.com^
-||resourcesssl.newscdn.com.au^
 ||resourcesssl.newscdn.com.au.edgekey.net^
+||resourcesssl.newscdn.com.au^
 ||responder.wt-safetag.com^
 ||ressources.gestionexterne.com^
 ||rest.flingster.com^
@@ -9838,8 +9838,8 @@
 ||rs1.epoq.de^
 ||rsa.attn.tv^
 ||rsa.egain.cloud^
-||rsc.lavanguardia.com^
 ||rsc.lavanguardia.com.edgekey.net^
+||rsc.lavanguardia.com^
 ||rscdn.storetail.net^
 ||rsrc.s3wfg.com^
 ||rss.oneindia.com.edgekey.net^
@@ -10081,8 +10081,8 @@
 ||s.trkcall.com^
 ||s.trvdp.com^
 ||s.tvp.pl^
-||s.uicdn.com^
 ||s.uicdn.com.edgekey.net^
+||s.uicdn.com^
 ||s.update.3lift.com^
 ||s.update.adsrvr.org^
 ||s.update.hmstats.com^
@@ -10566,8 +10566,8 @@
 ||secure.skypeassets.com.edgekey.net^
 ||secure.smart-company-365.com^
 ||secure.smartform.cz^
-||secure.social.yoox.it^
 ||secure.social.yoox.it.edgekey.net^
+||secure.social.yoox.it^
 ||secure.studio19.com.au^
 ||secure.toru0vane.com^
 ||secure.trust-guard.com^
@@ -10577,8 +10577,8 @@
 ||secure.vs3.com^
 ||secure.wauk1care.com^
 ||secure.weg.de.cdn.cloudflare.net^
-||secure.widget.cloud.opta.net^
 ||secure.widget.cloud.opta.net.edgekey.net^
+||secure.widget.cloud.opta.net^
 ||secure02ea.chase.com.edgekey.net^
 ||secure1.adcent.jp^
 ||secure2.cupidmedia.www.edgekey.net^
@@ -10714,8 +10714,8 @@
 ||sf16-scmcdn-va.ibytedtos.com^
 ||sf336.infusionsoft.app^
 ||sfc.leadspace.com^
-||sfcc-prod-api.jabra.com^
 ||sfcc-prod-api.jabra.com.cdn.cloudflare.net^
+||sfcc-prod-api.jabra.com^
 ||sfg-citychic-au.resultspage.com^
 ||sfr.eulerian.net^
 ||sfra.production.calzedonia.coremedia.cloud^
@@ -10903,8 +10903,8 @@
 ||smartsignals2.smart-digital-solutions.de^
 ||smarttag.rubiconproject.com^
 ||smaug-public.stashinvest.dmz.stsh.io^
-||smb.optus.com.au^
 ||smb.optus.com.au.dsd.edgekey.net^
+||smb.optus.com.au^
 ||smdest-cdn.playtika.com^
 ||smetrics.blair.com^
 ||smetrics.corus.ca^
@@ -11127,8 +11127,8 @@
 ||ssl.microsofttranslator.com^
 ||ssl.mousestats.com^
 ||ssl.pstatic.net.nheos.com^
-||ssl.quiksilver.com^
 ||ssl.quiksilver.com.edgekey.net^
+||ssl.quiksilver.com^
 ||ssl.socdm.com^
 ||ssl.sonos.com-dsd.edgekey.net^
 ||ssl.tzoo-img.com^
@@ -11186,8 +11186,8 @@
 ||st.mycdn.me^
 ||st.ntppool.org^
 ||st.pubmatic.com^
-||st.redbus.in^
 ||st.redbus.in.edgekey.net^
+||st.redbus.in^
 ||st.s5o.ru^
 ||st.tistatic.com^
 ||st.top100.ru^
@@ -11274,8 +11274,8 @@
 ||static-lefigaro.fr.edgekey.net^
 ||static-meganoticias.cdn.mdstrm.com^
 ||static-meta.triptease.io^
-||static-mh.content.disney.io^
 ||static-mh.content.disney.io.edgekey.net^
+||static-mh.content.disney.io^
 ||static-nl.plista.com^
 ||static-nt.weekli.systems^
 ||static-p2.thgnet.dk^
@@ -11330,14 +11330,14 @@
 ||static.aroa.io^
 ||static.astrocenter.fr^
 ||static.atgsvcs.com^
-||static.aujardin.info^
 ||static.aujardin.info.web.cdn.anycast.me^
+||static.aujardin.info^
 ||static.aviasales.com^
 ||static.aviva.io^
 ||static.axios.com.cdn.cloudflare.net^
 ||static.az-cdn.ch^
-||static.az.gov^
 ||static.az.gov.cdn.cloudflare.net^
+||static.az.gov^
 ||static.babbel.news^
 ||static.bam-x.com^
 ||static.bankbazaar.com.edgekey.net^
@@ -11371,8 +11371,8 @@
 ||static.chaordicsystems.com^
 ||static.chartbeat.com^
 ||static.chasecdn.com.edgekey.net^
-||static.chemie.de^
 ||static.chemie.de.edgekey.net^
+||static.chemie.de^
 ||static.chemistwarehouse.com.au^
 ||static.chrono24.com^
 ||static.cifras.com.br^
@@ -11380,8 +11380,8 @@
 ||static.cleverpush.com^
 ||static.clickskeks.at^
 ||static.clicktripz.com^
-||static.clmbtech.com^
 ||static.clmbtech.com-v3.edgekey.net^
+||static.clmbtech.com^
 ||static.cloud.coveo.com^
 ||static.cloudflareinsights.com^
 ||static.clubs.nfl.com^
@@ -11436,8 +11436,8 @@
 ||static.ex.co^
 ||static.fatsecret.com^
 ||static.fcdn.co.il^
-||static.fidcdn.net^
 ||static.fidcdn.net.cdn.cloudflare.net^
+||static.fidcdn.net^
 ||static.filestackapi.com^
 ||static.finncdn.no^
 ||static.flingster.com^
@@ -11574,8 +11574,8 @@
 ||static.mouv.desjardins.com.edgekey.net^
 ||static.movavi.com^
 ||static.mqcdn.com^
-||static.mueller.de^
 ||static.mueller.de.cdn.cloudflare.net^
+||static.mueller.de^
 ||static.mvcd.net^
 ||static.mycity.travel^
 ||static.myeuronews.net^
@@ -11848,8 +11848,8 @@
 ||static2.hidemyass.com.edgekey.net^
 ||static2.medplusmart.com.edgekey.net^
 ||static2.pt-content.com^
-||static2.sharepointonline.com^
 ||static2.sharepointonline.com.edgekey.net^
+||static2.sharepointonline.com^
 ||static2.smi2.net^
 ||static2.tgstat.ru^
 ||static2.tinkoffjournal.ru^
@@ -12288,8 +12288,8 @@
 ||tags-cdn.deployads.com^
 ||tags-eu.tiqcdn.com^
 ||tags.adnuntius.com^
-||tags.asics.com^
 ||tags.asics.com.greylabeldelivery.com^
+||tags.asics.com^
 ||tags.b1js.com^
 ||tags.bluekai.com^
 ||tags.catapultx.com^
@@ -12350,8 +12350,8 @@
 ||taxjar.mktoweb.com^
 ||tb-lb.sb-cd.com^
 ||tb.de17a.com^
-||tbcdn.talentbrew.com^
 ||tbcdn.talentbrew.com-v3.edgekey.net^
+||tbcdn.talentbrew.com^
 ||tc-animate.techorus-cdn.com^
 ||tc.cdnhub.co^
 ||tc.dataxpand.com^
@@ -12458,8 +12458,8 @@
 ||thread.spicegems.org^
 ||thrivent.blueconic.net^
 ||thumb-l3.flixcdn.com^
-||thumb.canalplus.pro^
 ||thumb.canalplus.pro.edgekey.net^
+||thumb.canalplus.pro^
 ||thumb.fushaar.link^
 ||thumb.holidayguru.de^
 ||thumb.hqpap.com^
@@ -12528,11 +12528,11 @@
 ||tk.airfrance.fr^
 ||tk.kargo.com^
 ||tk.msccruises.com^
-||tk_prismashop_fr.wizaly.com^
-||tk_transavia_com.wizaly.com^
 ||tkairfrance.wizaly.com^
 ||tklolivierfr.wizaly.com^
 ||tkx.mp.lura.live^
+||tk_prismashop_fr.wizaly.com^
+||tk_transavia_com.wizaly.com^
 ||tlads.midtc.com^
 ||tlv.ui02.com^
 ||tlx.3lift.com^
@@ -12548,8 +12548,8 @@
 ||tms-global.intel.com.greylabeldelivery.com^
 ||tms-tool.speedtestcustom.com^
 ||tms-visitor-service.sony.jp.greylabeldelivery.com^
-||tms.audi.com^
 ||tms.audi.com.edgekey.net^
+||tms.audi.com^
 ||tms.oracle.com.greylabeldelivery.com^
 ||tms.tescomobile.com.greylabeldelivery.com^
 ||tms.triboomedia.it^
@@ -12888,8 +12888,8 @@
 ||uniquevintage.attn.tv^
 ||unisa.egain.cloud^
 ||unitcom.australia-3.evergage.com^
-||unite.nike.com^
 ||unite.nike.com.edgekey.net^
+||unite.nike.com^
 ||units.knotch.it^
 ||unity.agechecked.com^
 ||universal.iper2.com^
@@ -13168,8 +13168,8 @@
 ||videocdn.studiod.cc^
 ||videoconverter.wondershare.com^
 ||videodetective-sr.service.signalr.net^
-||videoplatform.sky.it^
 ||videoplatform.sky.it.edgekey.net^
+||videoplatform.sky.it^
 ||videoplayer.smdg.ca^
 ||videos-porno.petardashd.com^
 ||videos.gotolstoy.com^
@@ -13402,8 +13402,8 @@
 ||webapi.bookeasy.com.au^
 ||webapigateway.tracfone.com^
 ||webapp.beckhoff-web-services.com^
-||webapps-cdn.esri.com^
 ||webapps-cdn.esri.com.edgekey.net^
+||webapps-cdn.esri.com^
 ||webasset-akm.imvu.com.cdn.cloudflare.net^
 ||webassets.images4us.com^
 ||webassets.tomtom.com.edgekey.net^
@@ -13454,8 +13454,8 @@
 ||webservice-eex.gvsi.com^
 ||webservices.altamiranomedia.com^
 ||webservices.global-e.com^
-||webservices.globalweb.aws.assaabloy.com^
 ||webservices.globalweb.aws.assaabloy.com.edgekey.net^
+||webservices.globalweb.aws.assaabloy.com^
 ||webservices.ontariogovernment.ca^
 ||webservices.titantvguide.titantv.com^
 ||webservices.webspectator.com^
@@ -13902,8 +13902,8 @@
 ||www.weforum.org.edgekey.net^
 ||www.zee5.com-v3.edgekey.net^
 ||www1.djicdn.com^
-||www1.grouponcdn.com^
 ||www1.grouponcdn.com.edgekey.net^
+||www1.grouponcdn.com^
 ||www1.minijuegosgratis.com^
 ||www1.pstreetma.com^
 ||www1.wdr.de^
@@ -13913,8 +13913,8 @@
 ||www18.smartadserver.com^
 ||www2.53kf.com^
 ||www2.cammedia.com^
-||www2.grouponcdn.com^
 ||www2.grouponcdn.com.edgekey.net^
+||www2.grouponcdn.com^
 ||www2.mattel.com.edgekey.net^
 ||www2.minijuegosgratis.com^
 ||www2.primecreative.com.au^
@@ -13968,8 +13968,8 @@
 ||xa.shinobi.jp^
 ||xas.scdn5.secure.raxcdn.com^
 ||xba.miranus.com^
-||xcdn.next.co.uk^
 ||xcdn.next.co.uk.edgekey.net^
+||xcdn.next.co.uk^
 ||xcollector.ptengine.jp^
 ||xhr.invl.co^
 ||ximg.enetscores.com^
