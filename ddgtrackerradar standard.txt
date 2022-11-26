@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: DuckDuckGo Tracker Radar
 ! Description: This host file is based on DuckDuckGo Tracker Radar.
-! Note: Made by Blokada
+! Note: Made by Blokada and edited by bot
 ! Updated: 26 November 2022
 
 ||0.cdn.autotraderspecialty.com^
@@ -5365,7 +5365,6 @@
 ||estimated-delivery-days.setubridgeapps.com^
 ||esundtri-relay.iocnt.net^
 ||esvitas.mpeasylink.com^
-||esx.bigo.sg^
 ||esx.esxscloud.com^
 ||eth-mainnet.alchemyapi.io^
 ||ethan-allen-sweepstakes.busites.com^
@@ -6985,7 +6984,6 @@
 ||images.nicindustries.com^
 ||images.nnpi.sk^
 ||images.noz-mhn.de^
-||images.nvidia.com^
 ||images.oneindia.com.edgekey.net^
 ||images.ontheedgebrands.com^
 ||images.opencollective.com^
@@ -7880,7 +7878,6 @@
 ||lf16-tiktok-common.tiktokcdn-us.com^
 ||lf16-tiktok-common.ttwstatic.com^
 ||lf16-tiktok-web.tiktokcdn-us.com^
-||lf16-tiktok-web.ttwstatic.com^
 ||lf3-short.ibytedapm.com^
 ||lftracker.leadfeeder.com^
 ||lg.attn.tv^
@@ -9211,7 +9208,6 @@
 ||p10o5q.nasa.gslb.f5silverline.com^
 ||p11.techlab-cdn.com^
 ||p16-sign-sg.tiktokcdn.com^
-||p16-sign-va.tiktokcdn.com^
 ||p17652.citrix-itm-test.com^
 ||p19-sign.tiktokcdn-us.com^
 ||p2-ofp.static.pub^
@@ -11614,7 +11610,6 @@
 ||ss-aka-ori.coral.co.uk.cdn.cloudflare.net^
 ||ss-aka-ori.ladbrokes.com.cdn.cloudflare.net^
 ||ss-pbs.quantumdex.io^
-||ss.phncdn.com.sds.rncdn7.com^
 ||ssb.wiki.gallery^
 ||ssc-cms.33across.com^
 ||ssc.33across.com^
