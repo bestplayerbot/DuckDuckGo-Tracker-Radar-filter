@@ -5676,7 +5676,6 @@
 ||i1.mangapicgallery.com^
 ||i1.pcstatic21.com^
 ||i1.prth.gr^
-||i1.sndcdn.com^
 ||i1.vivocha.com^
 ||i1.ypcdn.com.edgekey.net^
 ||i120.fastpic.org^
