@@ -10111,7 +10111,6 @@
 ||ss-aka-ori.coral.co.uk.cdn.cloudflare.net^
 ||ss-aka-ori.ladbrokes.com.cdn.cloudflare.net^
 ||ss-pbs.quantumdex.io^
-||ss.phncdn.com.sds.rncdn7.com^
 ||ssb.wiki.gallery^
 ||ssc-cms.33across.com^
 ||ssc.33across.com^
