@@ -9102,7 +9102,6 @@
 ||s.weblec.com^
 ||s.wincalendar.net^
 ||s.yfkvwa.com^
-||s.yimg.jp^
 ||s.yjtag.jp^
 ||s.ykvlen.com^
 ||s0.blt.ro^
