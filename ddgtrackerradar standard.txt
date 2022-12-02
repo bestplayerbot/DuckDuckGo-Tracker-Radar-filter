@@ -8342,7 +8342,6 @@
 ||public.leafly.com^
 ||public.leafly.com.cdn.cloudflare.net^
 ||public.libertymutual-cdn.com^
-||public.onlyfans.com^
 ||public.powrcdn.com^
 ||public.punchout2go.com^
 ||public.servenobid.com^
