@@ -1792,7 +1792,6 @@
 ||assets.rpglogs.com^
 ||assets.saversrls.rioseo.com^
 ||assets.savills.com^
-||assets.sb-cd.com^
 ||assets.sbstatic.com.au^
 ||assets.selency.co^
 ||assets.sendinblue.com^
@@ -11217,7 +11216,6 @@
 ||tau.collect.igodigital.com^
 ||taxact.extole.io^
 ||taxjar.mktoweb.com^
-||tb-lb.sb-cd.com^
 ||tb.de17a.com^
 ||tbcdn.talentbrew.com^
 ||tbcdn.talentbrew.com-v3.edgekey.net^
