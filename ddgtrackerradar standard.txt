@@ -10455,7 +10455,6 @@
 ||static.narrativ.com^
 ||static.nativerent.ru^
 ||static.nbt.indiatimes.com.edgekey.net^
-||static.nc-img.com^
 ||static.neris-assets.com^
 ||static.newsmaxfeednetwork.com^
 ||static.nexusmedia-ua.com^
