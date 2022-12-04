@@ -5619,7 +5619,6 @@
 ||i.geistm.com^
 ||i.glimg.net^
 ||i.gremicdn.pl^
-||i.gyazo.com^
 ||i.icomoon.io^
 ||i.iheart.com^
 ||i.iinfo.cz^
