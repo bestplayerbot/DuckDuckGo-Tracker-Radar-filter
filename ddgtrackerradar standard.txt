@@ -3,6 +3,7 @@
 ! Description: This filter is based on DuckDuckGo Tracker Radar.
 ! Note: Made by Blokada and edited by bot
 ! Updated: 5 December 2022
+! Homepage: https://github.com/botthebestplayerintheworld/DuckDuckGo-Tracker-Radar-filter
 ! Expires: 7 days
 
 ||0.cdn.autotraderspecialty.com^
