@@ -11661,7 +11661,6 @@
 ||tvspielf-relay.iocnt.net^
 ||twa.netcoresmartech.com^
 ||twebshop.tomas-travel.com^
-||twemoji.maxcdn.com^
 ||twilio.mktoweb.com^
 ||twitter.countoon.com^
 ||txz27ptd.tinifycdn.com^
