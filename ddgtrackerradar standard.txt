@@ -2,7 +2,7 @@
 ! Title: DuckDuckGo Tracker Radar
 ! Description: This filter is based on DuckDuckGo Tracker Radar.
 ! Note: Made by Blokada and edited by bot
-! Updated: 7 December 2022
+! Updated: 13 December 2022
 ! Homepage: https://github.com/botthebestplayerintheworld/DuckDuckGo-Tracker-Radar-filter
 ! Expires: 7 days
 
@@ -1614,7 +1614,6 @@
 ||assets-edge.rcrsv.io^
 ||assets-eu-01.kc-usercontent.com^
 ||assets-gke.uscreencdn.com^
-||assets-global.website-files.com^
 ||assets-laurentide.furnituredealer.net^
 ||assets-live.waf.digital-prod.vodafoneaws.co.uk^
 ||assets-prd.ignimgs.com^
