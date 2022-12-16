@@ -2,7 +2,7 @@
 ! Title: DuckDuckGo Tracker Radar
 ! Description: This filter is based on DuckDuckGo Tracker Radar.
 ! Note: Made by Blokada and edited by bot
-! Updated: 13 December 2022
+! Updated: 16 December 2022
 ! Homepage: https://github.com/botthebestplayerintheworld/DuckDuckGo-Tracker-Radar-filter
 ! Expires: 7 days
 
@@ -3038,7 +3038,6 @@
 ||cl-eu2.k5a.io^
 ||cl-eu4.k5a.io^
 ||cl-f50a23f4.mf.cdnmgf.megafon.ru^
-||cl.avis-verifies.com^
 ||cl.k5a.io^
 ||cl.qualaroo.com^
 ||cl.vlitag.com^
@@ -4440,7 +4439,6 @@
 ||einfaba-relay.iocnt.net^
 ||einstieg-relay.iocnt.net^
 ||eis.imb-images.com^
-||eisysinc.qtlcdn.com^
 ||eitri.api.useinsider.com^
 ||ejeswvz3k2k.exactdn.com^
 ||ejxxj9jvb28.exactdn.com^
@@ -6420,8 +6418,6 @@
 ||k8p8c4c8.rocketcdn.me^
 ||kachelma-relay.iocnt.net^
 ||kailor.iad-03.braze.com^
-||kajabi-app-assets.kajabi-cdn.com^
-||kajabi-storefronts-production.kajabi-cdn.com^
 ||kajabi.cname.getrockerbox.com^
 ||kakakucom.112.2o7.net^
 ||kake.images.worldnow.com^
@@ -6796,7 +6792,6 @@
 ||login.safe-iplay.com^
 ||login.szn.cz^
 ||login506.piwik.pro^
-||logincdn.msftauth.net^
 ||loginframe.radioeins.funtip.de^
 ||logitechlogitechglobal.112.2o7.net^
 ||logo.afgis.de^
@@ -7678,7 +7673,6 @@
 ||newskoolmedia.jotform.com^
 ||next.cdn.pxr.nl^
 ||next.kitchenstories.io^
-||nexus.ensighten.com^
 ||nexus.rechannelapi.com^
 ||nexus.toyota.com^
 ||nfhs-network.extole.io^
@@ -7965,7 +7959,6 @@
 ||ottekstern.oslotaxi.no^
 ||ouigo-p-window-data-fd-01.azurefd.net^
 ||oup.hum.works^
-||oup.silverchair-cdn.com^
 ||ouraring.attn.tv^
 ||ouraring.cname.getrockerbox.com^
 ||outdoorgearlab-mvnab3pwrvp3t0.stackpathdns.com^
@@ -8024,7 +8017,6 @@
 ||p1.zemanta.com^
 ||p10.evorra.net^
 ||p10o5q.nasa.gslb.f5silverline.com^
-||p11.techlab-cdn.com^
 ||p16-sign-sg.tiktokcdn.com^
 ||p17652.citrix-itm-test.com^
 ||p19-sign.tiktokcdn-us.com^
@@ -9113,7 +9105,6 @@
 ||responder.wt-safetag.com^
 ||ressources.gestionexterne.com^
 ||rest.flingster.com^
-||rest.iad-03.braze.com^
 ||rest.quiksilver.com^
 ||restapi.mailplus.nl^
 ||restaurant.img-ikyu.com^
@@ -9700,7 +9691,6 @@
 ||script.fixel.ai^
 ||script.hotjar.com^
 ||script.infinity-tracking.com^
-||script.ioam.de^
 ||script.metricode.com^
 ||script.nettix.fi^
 ||script.shoppingminds.com^
@@ -10630,7 +10620,6 @@
 ||static-nl.plista.com^
 ||static-nt.weekli.systems^
 ||static-pl.plista.com^
-||static-playback.prod.vidiocdn.com^
 ||static-redesign.cnbcfm.com.edgekey.net^
 ||static-ruud.globalimageserver.com^
 ||static-samtykker.agm.as^
@@ -10649,7 +10638,6 @@
 ||static-v2.trbo.com^
 ||static-web-assets.gnl-common.bbcverticals.com^
 ||static-web-prod.sprtactn.co^
-||static-web.prod.vidiocdn.com^
 ||static-webapp.tiendeo.com^
 ||static-whale.pstatic.net.static.gscdn.net^
 ||static.1aautoimages.com^
@@ -11673,7 +11661,6 @@
 ||tag.yieldoptimizer.com^
 ||tagan.adlightning.com^
 ||tagger-scmp.opecloud.com^
-||tagger.opecloud.com^
 ||tagmanager.apigruporsa.com^
 ||tagmanager.schneider-electric.com^
 ||tagmanager.smartadserver.com^
@@ -11866,7 +11853,6 @@
 ||thumbnail-image-rakuten-co-jp.gslb.rdcnw.net^
 ||thumbnails.cbc.ca.edgekey.net^
 ||thumbor-url-prod.zoover.cloud^
-||thumbor.prod.vidiocdn.com^
 ||thumborcdn.acast.com^
 ||thumbs.depositphotos.com.edgekey.net^
 ||thumbs.nosto.com^
