@@ -13351,7 +13351,6 @@
 ||xporn.xtremestream.co^
 ||xproxy.gnl-live.bbcverticals.com^
 ||xrllc.ladesk.com^
-||xsso.riotgames.com.cdn.cloudflare.net^
 ||xvt.vscdns.com^
 ||y.yarn.co^
 ||y1323mhiosaf.customer.permutive.app^
