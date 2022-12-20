@@ -2,9 +2,9 @@
 ! Title: DuckDuckGo Tracker Radar
 ! Description: This filter is based on DuckDuckGo Tracker Radar.
 ! Note: Made by Blokada and edited by bot
-! Updated: 16 December 2022
+! Updated: 20 December 2022
 ! Homepage: https://github.com/botthebestplayerintheworld/DuckDuckGo-Tracker-Radar-filter
-! Expires: 7 days
+! Expires: 3 days
 
 ||0.cdn.autotraderspecialty.com^
 ||0.oldgyhogola.com^
@@ -3673,7 +3673,6 @@
 ||cs87.can.transactcdn.com^
 ||cs9.wpc.v0cdn.net^
 ||cs95619.adn.psicdn.net^
-||cs95619.wpc.psicdn.net^
 ||csb.zineone.com^
 ||cscript-cdn-irl.cassiecloud.com^
 ||cse.expertrec.com^
@@ -10726,7 +10725,6 @@
 ||static.clicktripz.com^
 ||static.clmbtech.com^
 ||static.clmbtech.com-v3.edgekey.net^
-||static.cloud.coveo.com^
 ||static.cloudflareinsights.com^
 ||static.clubs.nfl.com^
 ||static.cnhionline.com^
