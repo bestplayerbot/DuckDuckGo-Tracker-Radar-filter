@@ -11593,7 +11593,6 @@
 ||t0.cdn3x.com^
 ||t00cjjv7m9bv.customer.permutive.app^
 ||t0jqxsrala.imgkit.net^
-||t1.daumcdn.net^
 ||t1.fmet1.com^
 ||t1.os-data.com^
 ||t1.rakuten.edgekey.net^
