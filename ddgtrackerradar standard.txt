@@ -9638,7 +9638,6 @@
 ||sc.lfeeder.com^
 ||sc.liveclicker.net^
 ||sc.pch.com.edgekey.net^
-||sc.sftcdn.net^
 ||sc.tynt.com^
 ||sca1.listrakbi.com^
 ||scdn.2cda.pl^
