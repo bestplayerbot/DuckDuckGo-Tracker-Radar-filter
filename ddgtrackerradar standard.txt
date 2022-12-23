@@ -5444,7 +5444,6 @@
 ||grammarly.ada.support^
 ||graphics.jst.ai^
 ||graphics.sitesell.com^
-||graphql.contentful.com^
 ||graphql.datocms.com^
 ||gray-kait-prod.cdn.arcpublishing.com^
 ||gray-kalb-prod.cdn.arcpublishing.com^
