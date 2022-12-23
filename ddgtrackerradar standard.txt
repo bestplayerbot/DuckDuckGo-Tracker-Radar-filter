@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: DuckDuckGo Tracker Radar
-! Homepage: https://github.com/botthebestplayerintheworld/DuckDuckGo-Tracker-Radar-filter
+! Homepage: https://github.com/bestplayerbot/DuckDuckGo-Tracker-Radar-filter
 ! Expires: 3 days
 
 ||0.cdn.autotraderspecialty.com^
