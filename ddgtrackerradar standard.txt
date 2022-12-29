@@ -5902,7 +5902,6 @@
 ||i.plug.it^
 ||i.postimg.cc^
 ||i.pximg.net^
-||i.redd.it^
 ||i.regiogroei.cloud^
 ||i.s-madewell.com^
 ||i.salecycle.com^
