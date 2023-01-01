@@ -1810,7 +1810,6 @@
 ||assets.mediamarkt.de.cdn.cloudflare.net^
 ||assets.mediaset.net^
 ||assets.megaphone.fm^
-||assets.memberful.com^
 ||assets.mlcdn.com^
 ||assets.mmsrg.com^
 ||assets.mofoprod.net^
@@ -2517,7 +2516,6 @@
 ||bucket.mlcdn.com^
 ||bucket1.mm-syringe.com^
 ||bucknell-prod.lwcal.com^
-||builds.mlbstatic.com^
 ||builds.mlbstatic.com.cdn.cloudflare.net^
 ||bulbamerica.attn.tv^
 ||bulk.ada.support^
