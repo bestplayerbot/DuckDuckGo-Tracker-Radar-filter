@@ -11047,7 +11047,6 @@
 ||static.srcspot.com^
 ||static.ssrn.com.cdn.cloudflare.net^
 ||static.staff-start.com^
-||static.stands4.com^
 ||static.startribune.com.cdn.cloudflare.net^
 ||static.staticdj.com^
 ||static.staticwars.com^
