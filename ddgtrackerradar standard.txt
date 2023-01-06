@@ -8009,7 +8009,6 @@
 ||p1.zemanta.com^
 ||p10.evorra.net^
 ||p10o5q.nasa.gslb.f5silverline.com^
-||p16-sign-sg.tiktokcdn.com^
 ||p17652.citrix-itm-test.com^
 ||p2-ofp.static.pub^
 ||p2.fwpixel.com^
