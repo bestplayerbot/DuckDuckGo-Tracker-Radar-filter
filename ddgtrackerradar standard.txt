@@ -1704,7 +1704,6 @@
 ||assets.customerfields.com^
 ||assets.dailykarma.io^
 ||assets.decathlon.site^
-||assets.deutschlandfunk.de.edgekey.net^
 ||assets.diepresse.com.edgekey.net^
 ||assets.digital.coop.co.uk^
 ||assets.djicdn.com^
@@ -1882,7 +1881,6 @@
 ||assets.rndtech.de^
 ||assets.rogers-assets.com^
 ||assets.roguefitness.com^
-||assets.rpglogs.com^
 ||assets.saversrls.rioseo.com^
 ||assets.savills.com^
 ||assets.seesrls.rioseo.com^
@@ -8665,7 +8663,6 @@
 ||profiles.mncdn.pl^
 ||profiles.tagger.opecloud.com^
 ||proform.cname.getrockerbox.com^
-||programm.ard.de^
 ||proisp.user.com^
 ||projectorreviews.advertserve.com^
 ||projects.elitechnology.com^
@@ -9918,7 +9915,6 @@
 ||servedbydoceree.doceree.com^
 ||server.adform.net^
 ||server.apxor.com^
-||server.arcgisonline.com^
 ||server.chaport.com^
 ||server.connecto.io^
 ||server.cpmstar.com^
