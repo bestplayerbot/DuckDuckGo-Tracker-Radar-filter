@@ -6797,7 +6797,6 @@
 ||media.cbs8.com.edgekey.net^
 ||media.cdn.bauhaus^
 ||media.cdn.lexipol.com^
-||media.cdn.sapphiretech.com.cn^
 ||media.complex.com^
 ||media.ctfs.com.edgekey.net^
 ||media.currys.biz^
